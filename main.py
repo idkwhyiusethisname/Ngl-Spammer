@@ -39,7 +39,7 @@ def spammer(link, ms):
 
     cc = {
         "username": nax,
-        "question": "fsdkofskdofskdofkosdofk",
+        "question": ms,
         "deviceId": "2a64b14e-75ae-4ef3-acb5-c87adaa0a753",
         "gameSlug": None,
         "referrer": None,
